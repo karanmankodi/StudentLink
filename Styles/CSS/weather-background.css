@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.light-rain, .rain, .showers, .drizzle  {
+	background-image:url(../../Images/rainy.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+}
+
+.mostly-cloudy, .partly-cloudy, .cloudy, .fair {
+	background-image:url(../../Images/cloudy.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+}
+
+.sunny, .hot, {
+	background-image:url(../../Images/sunny.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;	
+}

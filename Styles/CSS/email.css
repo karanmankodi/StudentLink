@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#mail-menu {
+	position:fixed;
+	top:30%;
+	z-index:100;
+}
+
+#mail-content-div {
+	padding-left:20%;
+	width:100%;
+}
+
+.row-selected {
+  margin-right: -15px;
+  margin-left: -15px;
+  background-color:#CCC;
+}
+
+.mail-row-checked {
+	background-color:#80C0FF;
+}
+
+.mail-button {
+	margin-top:10px;
+}
+
+.mail-content-below-menu {
+	position:relative;
+	margin-top:30px;
+}
+
+.btn-delete {
+	cursor:pointer;
+}
+
+.btn-flag-black {
+	cursor:pointer;
+}
+
+.btn-flag-red {
+	cursor:pointer;
+}

@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.coursedetails {
+	cursor:pointer;
+}
+
+#main-table-div {
+	position:relative;
+	margin-top:50px;
+}

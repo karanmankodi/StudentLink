@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	padding-top:100px;
+}
+
+#header {
+	background-color:#CCC;
+}
+
+#footer {
+	background-color:#CCC;
+}
+
+#login-btn {
+	margin-top:12px;
+}
+
+#logout-btn {
+	margin-top:12px;
+}
+
+li.after-login {
+	pointer-events: none;
+    cursor: not-allowed;
+	opacity: .65;
+	content:
+}
+
+.navbar-fixed-top-custom {
+  position:fixed;
+  top: 70px;
+  border-width: 0 0 1px;
+  padding-bottom:10px;
+  padding-top:10px;
+  z-index:100;
+}
+
+#header-h1 {
+	color:#FFF;
+}
+
+.content-below-menu {
+	position:relative;
+	margin-top:100px;
+}
+
+
+
+/* Slideshow for slider.js */
+.slideshow {
+	display: none;
+	height: 425px;
+	z-index:0;
+}
+
+/* Current Events - Infinite Scroll */
+#currentevents {
+	min-height:425px;
+}

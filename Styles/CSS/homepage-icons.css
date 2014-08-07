@@ -1,0 +1,93 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.menu-div {
+}
+
+#academics-div {
+	background-color:#ffcc33;
+	margin-bottom:20px;
+}
+
+#personal-div {
+	background-color:#3399ff;
+	margin-bottom:20px;
+}
+
+#moneymatters-div {
+	background-color:#6fbe44;
+	margin-bottom:20px;
+}
+
+#work-div {
+	background-color:#9a44fa;
+	margin-bottom:20px;
+}
+
+#foodshelter-div {
+	background-color:#6f6f6f;
+	margin-bottom:20px;
+}
+
+#basics-div {
+	background-color:#fa4451;
+	margin-bottom:20px;
+}
+
+#academics-list {
+	background-color:#ffcc33;
+}
+
+#personal-list {
+	background-color:#3399ff;
+	width: 100%;
+	height: 100%;
+}
+
+#moneymatters-list {
+	background-color:#6fbe44;
+	width: 100%;
+	height: 100%;
+}
+
+#work-list {
+	background-color:#9a44fa;
+	width: 100%;
+	height: 100%;
+}
+
+#foodshelter-list {
+	background-color:#6f6f6f;
+	width: 100%;
+	height: 100%;
+}
+
+#basics-list {
+	background-color:#fa4451;
+	width: 100%;
+	height: 100%;
+}
+
+#academics-icon {
+	cursor:pointer;
+}
+
+#personal-icon {
+	cursor:pointer;
+}
+
+#moneymatters-icon {
+	cursor:pointer;
+}
+
+#work-icon {
+	cursor:pointer;
+}
+
+#foodshelter-icon {
+	cursor:pointer;
+}
+
+#basics-icon {
+	cursor:pointer;
+}
